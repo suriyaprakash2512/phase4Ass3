@@ -1,0 +1,14 @@
+D:\phase 4\Day3\Assessment3\ConAppAss3\bin\Debug\net6.0\ConAppAss3.exe
+D:\phase 4\Day3\Assessment3\ConAppAss3\bin\Debug\net6.0\ConAppAss3.deps.json
+D:\phase 4\Day3\Assessment3\ConAppAss3\bin\Debug\net6.0\ConAppAss3.runtimeconfig.json
+D:\phase 4\Day3\Assessment3\ConAppAss3\bin\Debug\net6.0\ConAppAss3.dll
+D:\phase 4\Day3\Assessment3\ConAppAss3\bin\Debug\net6.0\ConAppAss3.pdb
+D:\phase 4\Day3\Assessment3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.GeneratedMSBuildEditorConfig.editorconfig
+D:\phase 4\Day3\Assessment3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.AssemblyInfoInputs.cache
+D:\phase 4\Day3\Assessment3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.AssemblyInfo.cs
+D:\phase 4\Day3\Assessment3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.csproj.CoreCompileInputs.cache
+D:\phase 4\Day3\Assessment3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.dll
+D:\phase 4\Day3\Assessment3\ConAppAss3\obj\Debug\net6.0\refint\ConAppAss3.dll
+D:\phase 4\Day3\Assessment3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.pdb
+D:\phase 4\Day3\Assessment3\ConAppAss3\obj\Debug\net6.0\ConAppAss3.genruntimeconfig.cache
+D:\phase 4\Day3\Assessment3\ConAppAss3\obj\Debug\net6.0\ref\ConAppAss3.dll
